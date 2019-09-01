@@ -1,0 +1,46 @@
+.resume{
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+.upper{
+    display: inline-block;
+    width: 99.6%;
+    background-color: rgb(255, 140, 140); 
+    border: 2px solid black;
+}
+
+.uleft{
+    float: left;
+    margin-left: 1%;
+    margin-bottom: 1%;
+   
+}
+
+.uright{
+    float: right;
+    align-content: right;   
+}
+
+.lower{
+    display: inline-block; 
+    margin-top: 2%;
+    width: 100%; 
+    background-color: rgb(157, 247, 224);  
+}
+
+#maintable{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.doubleline{
+    border-bottom: 2px solid black;
+}
+
+#grey{
+    background-color: rgb(107, 147, 233);    
+}
